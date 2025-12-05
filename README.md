@@ -1,3 +1,10 @@
+         Author - Saksham Pathak
+         Roll no - BTECH/10829/22
+         College - Birla institute of Technology Mesra ,Ranchi
+
+
+
+         
 1. Overview = 
 This repository contains my solutions to the SQL Technical Assessment.
 The goal of the exercise was to demonstrate SQL proficiency, analytical thinking, and ability to work with realistic datasets.
