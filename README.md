@@ -104,9 +104,9 @@ Count frequency → return most popular item
 Q6 — Refund processable flag
 | Buyer | Purchase Time | Refund Time | Processable? |
 | ----- | ------------- | ----------- | ------------ |
-| 12    | 2019-12-10    | 2019-12-15  | ❌ No         |
-| 3     | 2020-09-01    | 2020-09-02  | ✅ Yes        |
-| 5     | 2019-09-23    | 2019-09-27  | ❌ No         |
+| 12    | 2019-12-10    | 2019-12-15  |  No         |
+| 3     | 2020-09-01    | 2020-09-02  |  Yes        |
+| 5     | 2019-09-23    | 2019-09-27  |  No         |
 Refund is processable only if within 72 hours
 Add boolean field refund_processable
 
